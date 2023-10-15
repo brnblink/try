@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Prueba ayuda
+=======
+Prueba
+Modificado
+>>>>>>> 7a8f909f27d3e0f0f8aaa8bfda2bfa853797215b
